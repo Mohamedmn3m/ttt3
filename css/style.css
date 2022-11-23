@@ -1,0 +1,79 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.list  {
+     list-style: none;
+     display: flex;
+     margin-top: 60px;
+    
+}
+.l1{ 
+    background-image: url(../Images/bigmac.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 200px;
+text-align: center;
+  
+}
+.l2{background-image: url(../Images/big\ tasty.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 180px;
+    height: 180px;
+text-align: center; }
+.l3{background-image: url(../Images/mcroyal.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 200px;
+text-align: center;}
+.l4{ background-image: url(../Images/macdo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 200px;
+text-align: center;}
+.l5{
+    background-image: url(../Images/mcchicken.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 200px;
+text-align: center;
+}
+.l6{ background-image: url(../Images/bigche.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 180px;
+    height: 180px;
+text-align: center;}
+.l7{
+    background-image: url(../Images/grandcs.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 200px;
+text-align: center;
+}
+#addToCart{ 
+    border-radius: 10px;
+   margin-left: 50%;
+   margin-top: 20px;
+   font-weight: bold;
+}
+#content{font-size: 18px;}
+#totalPrice1{
+    font-size: 25px;
+    font-weight: 900;
+    margin-left: 50%;
+    color: red;
+}
+#pri1{ background-color: darkorange;
+    margin-left: 50%;
+margin-top: 50px;
+color: black;
+font-weight: 900;
+border-radius: 10px;}
